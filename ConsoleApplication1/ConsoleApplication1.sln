@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteConsole", "ConsoleApplication2\TesteConsole.csproj", "{AD34E681-7C96-47F3-9578-153F410B67F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotDicionario", "BotDicionario\BotDicionario.csproj", "{6F7F5A51-B602-40E6-8382-E4BA2029F689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD34E681-7C96-47F3-9578-153F410B67F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD34E681-7C96-47F3-9578-153F410B67F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD34E681-7C96-47F3-9578-153F410B67F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD34E681-7C96-47F3-9578-153F410B67F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7F5A51-B602-40E6-8382-E4BA2029F689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7F5A51-B602-40E6-8382-E4BA2029F689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7F5A51-B602-40E6-8382-E4BA2029F689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7F5A51-B602-40E6-8382-E4BA2029F689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
