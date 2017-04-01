@@ -33,10 +33,6 @@ namespace BotDicionario
             {
                 if (lendoPalavra)
                 {
-                    if (Limpar(linha) == "aafata")
-                    {
-                        bool debug = true;
-                    }
                     palavra = Limpar(linha);
                     lendoPalavra = false;
                 }
